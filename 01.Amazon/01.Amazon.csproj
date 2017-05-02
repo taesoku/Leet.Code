@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="02.Design.Twitter.cs" />
     <Compile Include="01.Get.Binary.Tree.Right.Side.View.cs" />
     <Compile Include="Amazon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

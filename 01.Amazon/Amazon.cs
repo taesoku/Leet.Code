@@ -14,9 +14,10 @@ namespace _04.Test
         // print: return string
         // run: return void
 
-        static void Main(string[] args)
+        static void Main()
         {
-            _01GetBinaryTreeRightSideView.Answer();
+            //_01GetBinaryTreeRightSideView.Answer();
+            _02DesignTwitter.Answer();
         }
     }
 }
