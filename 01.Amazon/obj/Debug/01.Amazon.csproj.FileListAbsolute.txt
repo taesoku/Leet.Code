@@ -1,6 +1,0 @@
-R:\專門\Leet.Code\01.Amazon\bin\Debug\04.Test.exe.config
-R:\專門\Leet.Code\01.Amazon\obj\Debug\04.Test.exe
-R:\專門\Leet.Code\01.Amazon\obj\Debug\04.Test.pdb
-R:\專門\Leet.Code\01.Amazon\bin\Debug\04.Test.exe
-R:\專門\Leet.Code\01.Amazon\bin\Debug\04.Test.pdb
-R:\專門\Leet.Code\01.Amazon\obj\Debug\01.Amazon.csprojResolveAssemblyReference.cache
