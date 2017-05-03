@@ -17,7 +17,8 @@ namespace _04.Test
         static void Main()
         {
             //_01GetBinaryTreeRightSideView.Answer();
-            _02DesignTwitter.Answer();
+            //_02DesignTwitter.Answer();
+            _03GetReverseWords.Answer();
         }
     }
 }
