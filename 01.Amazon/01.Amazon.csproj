@@ -47,6 +47,9 @@
     <Compile Include="03.Get.Reverse.Words.cs" />
     <Compile Include="02.Design.Twitter.cs" />
     <Compile Include="01.Get.Binary.Tree.Right.Side.View.cs" />
+    <Compile Include="04.Find.Lowest.Common.Ancestor.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Amazon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

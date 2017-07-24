@@ -18,7 +18,8 @@ namespace _04.Test
         {
             //_01GetBinaryTreeRightSideView.Answer();
             //_02DesignTwitter.Answer();
-            _03GetReverseWords.Answer();
+            //_03GetReverseWords.Answer();
+            _04FindLowestCommonAncestor.Answer();
         }
     }
 }

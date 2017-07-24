@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace _01.Amazon
+﻿namespace _01.Amazon
 {
 
     public class _03GetReverseWords
@@ -20,21 +17,21 @@ namespace _01.Amazon
             if (rindex > 1)
             {
                 //reverse complete phrase
-                in_text = ReverseString(in_text, 0, rindex);
+                in_text = GetReverseString(in_text, 0, rindex);
 
                 //reverse each word in resultant reversed phrase
                 for (rindex = 0; rindex <= in_text.Length; rindex++)
                 {
                     if (rindex == in_text.Length || in_text[rindex] == ' ')
                     {
-                        in_text = ReverseString(in_text, lindex, rindex - 1);
+                        in_text = GetReverseString(in_text, lindex, rindex - 1);
                         lindex = rindex + 1;
                     }
                 }
             }
         }
 
-        static char[] ReverseString(char[] intext, int lindex, int rindex)
+        static char[] GetReverseString(char[] intext, int lindex, int rindex)
         {
             char tempc;
             while (lindex < rindex)
