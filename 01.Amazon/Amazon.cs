@@ -1,11 +1,10 @@
-﻿using _01.Amazon;
-
-namespace _04.Test
+﻿namespace _01.Amazon
 {
     class Amazon
     {
 
         // count: return int - counting
+        // design : system design
         // find: return object
         // get: return array || list
         // is: return bool
@@ -19,7 +18,8 @@ namespace _04.Test
             //_01GetBinaryTreeRightSideView.Answer();
             //_02DesignTwitter.Answer();
             //_03GetReverseWords.Answer();
-            _04FindLowestCommonAncestor.Answer();
+            //_04FindLowestCommonAncestor.Answer();
+            _05FindKthLargest.Answer();
         }
     }
 }

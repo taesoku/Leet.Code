@@ -50,6 +50,9 @@
     <Compile Include="04.Find.Lowest.Common.Ancestor.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="05.Find.Kth.Largest.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Amazon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

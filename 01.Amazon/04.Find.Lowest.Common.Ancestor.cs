@@ -1,4 +1,4 @@
-﻿namespace _04.Test
+﻿namespace _01.Amazon
 {
     class _04FindLowestCommonAncestor
     {
