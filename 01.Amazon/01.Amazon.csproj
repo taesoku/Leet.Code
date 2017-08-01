@@ -44,13 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="03.Get.Reverse.Words.cs" />
-    <Compile Include="02.Design.Twitter.cs" />
-    <Compile Include="01.Get.Binary.Tree.Right.Side.View.cs" />
-    <Compile Include="04.Find.Lowest.Common.Ancestor.cs">
+    <Compile Include="146.Design.Least.Recently.Used.Cache.cs" />
+    <Compile Include="186.Get.Reverse.Words.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="05.Find.Kth.Largest.cs">
+    <Compile Include="355.Design.Twitter.cs" />
+    <Compile Include="199.Get.Binary.Tree.Right.Side.View.cs" />
+    <Compile Include="236.Find.Lowest.Common.Ancestor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="215.Find.Kth.Largest.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Amazon.cs" />

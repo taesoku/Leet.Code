@@ -1,7 +1,7 @@
 ﻿namespace _01.Amazon
 {
 
-    public class _03GetReverseWords
+    public class _186GetReverseWords
     {
 
         public static void Answer()

@@ -2,7 +2,7 @@
 
 namespace _01.Amazon
 {
-    class _05FindKthLargest
+    class _215FindKthLargest
     {
 
         public static void Answer()
@@ -11,6 +11,11 @@ namespace _01.Amazon
             var output = FindKthLargest(inputs, 2);
         }
 
+        /// <summary>
+        /// Sort and Get the index O(NlogN) + O(1)
+        /// </summary>
+        /// <param name="inputs">input</param>
+        /// <param name="k">kth largest</param>
         public static int FindKthLargest(int[] inputs, int k)
         {
             inputs = MergeList(inputs);

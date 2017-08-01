@@ -11,7 +11,7 @@ namespace _01.Amazon
         public TreeNode(int x) { Val = x; }
     }
 
-    public class _01GetBinaryTreeRightSideView
+    public class _199GetBinaryTreeRightSideView
     {
 
         public static void Answer()

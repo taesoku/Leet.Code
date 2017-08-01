@@ -85,7 +85,7 @@ namespace _01.Amazon
 
     }
 
-    public class _02DesignTwitter
+    public class _355DesignTwitter
     {
 
         public static void Answer()

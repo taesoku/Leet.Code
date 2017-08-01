@@ -1,6 +1,6 @@
 ﻿namespace _01.Amazon
 {
-    class _04FindLowestCommonAncestor
+    class _236FindLowestCommonAncestor
     {
 
         public class TreeNode
