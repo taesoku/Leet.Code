@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace _01.Amazon
+namespace Leet.Code
 {
 
     public class TreeNode

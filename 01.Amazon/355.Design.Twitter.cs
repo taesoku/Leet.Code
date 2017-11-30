@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace _01.Amazon
+namespace Leet.Code
 {
 
     public class Following

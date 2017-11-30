@@ -1,6 +1,6 @@
-﻿namespace _01.Amazon
+﻿namespace Leet.Code
 {
-    class Amazon
+    class LeetCode
     {
 
         // count: return int - counting
@@ -19,7 +19,7 @@
             //_02DesignTwitter.Answer();
             //_03GetReverseWords.Answer();
             //_04FindLowestCommonAncestor.Answer();
-            _215FindKthLargest.Answer();
+            //_215FindKthLargest.Answer();
         }
     }
 }

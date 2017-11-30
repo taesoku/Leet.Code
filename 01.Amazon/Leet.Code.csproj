@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="526.Get.Beautiful.Arrangement.cs" />
     <Compile Include="146.Design.Least.Recently.Used.Cache.cs" />
     <Compile Include="186.Get.Reverse.Words.cs">
       <SubType>Code</SubType>

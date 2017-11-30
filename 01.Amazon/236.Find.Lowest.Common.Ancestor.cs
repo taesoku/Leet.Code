@@ -1,4 +1,4 @@
-﻿namespace _01.Amazon
+﻿namespace Leet.Code
 {
     class _236FindLowestCommonAncestor
     {
