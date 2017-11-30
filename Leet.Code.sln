@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leet.Code", "01.Amazon\Leet.Code.csproj", "{9C34CACF-ADD5-4A9F-B7ED-BD253131EF39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leet.Code", "Leet.Code\Leet.Code.csproj", "{9C34CACF-ADD5-4A9F-B7ED-BD253131EF39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
