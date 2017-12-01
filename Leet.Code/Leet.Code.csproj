@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="001.Get.Two.Sum.cs" />
     <Compile Include="526.Get.Beautiful.Arrangement.cs" />
     <Compile Include="146.Design.Least.Recently.Used.Cache.cs" />
     <Compile Include="186.Get.Reverse.Words.cs">
@@ -57,7 +58,7 @@
     <Compile Include="215.Find.Kth.Largest.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Amazon.cs" />
+    <Compile Include="Leet.Code.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

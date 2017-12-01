@@ -15,6 +15,7 @@
 
         static void Main()
         {
+            _001GetTwoSum.Answer();
             //_01GetBinaryTreeRightSideView.Answer();
             //_02DesignTwitter.Answer();
             //_03GetReverseWords.Answer();
