@@ -6,7 +6,7 @@
         // count: return int - counting
         // design : system design
         // find: return object
-        // get: return array || list
+        // get: return array || linkedlist || list
         // is: return bool
         // max: return int - finding maximum
         // min: return int - finding minimum
@@ -15,7 +15,8 @@
 
         static void Main()
         {
-            _001GetTwoSum.Answer();
+            //_001GetTwoSum.Answer();
+            _002GetTwoNumbersAddition.Answer();
             //_01GetBinaryTreeRightSideView.Answer();
             //_02DesignTwitter.Answer();
             //_03GetReverseWords.Answer();

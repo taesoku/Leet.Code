@@ -45,6 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="001.Get.Two.Sum.cs" />
+    <Compile Include="002.Get.Two.Numbers.Addition.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="526.Get.Beautiful.Arrangement.cs" />
     <Compile Include="146.Design.Least.Recently.Used.Cache.cs" />
     <Compile Include="186.Get.Reverse.Words.cs">
