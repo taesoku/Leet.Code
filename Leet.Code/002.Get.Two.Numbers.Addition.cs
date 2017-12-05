@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Leet.Code
+﻿namespace Leet.Code
 {
 
     public class _002GetTwoNumbersAddition

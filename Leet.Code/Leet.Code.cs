@@ -17,7 +17,8 @@
         {
             //_001GetTwoSum.Answer();
             //_002GetTwoNumbersAddition.Answer();
-            _003FindLengthOfLongestSubstring.Answer();
+            //_003FindLengthOfLongestSubstring.Answer();
+            _004FindMedianOfTwoSortedArrays.Answer();
             //_01GetBinaryTreeRightSideView.Answer();
             //_02DesignTwitter.Answer();
             //_03GetReverseWords.Answer();
