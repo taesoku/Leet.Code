@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.ComponentModel;
-using System.Linq;
-using System.Xml.Schema;
-
-namespace Leet.Code
+﻿namespace Leet.Code
 {
 
     public class _004FindMedianOfTwoSortedArrays
@@ -68,10 +62,19 @@ namespace Leet.Code
         //    var m1 = FindMedian(input1, n);
         //    var m2 = FindMedian(input2, n);
         //    if (m1 == m2) return m1;
-        //    if (m1 < m2)
-        //    {
-        //        //if (n % 2 == 0) return FindMedian(input1.ToList().GetRange(n/2 -1, ) + n/2 - 1);
-        //    }
+    //if (m1 < m2)
+    //{
+    //    if (n % 2 == 0)
+    //        return getMedian(ar1 + n/2 - 1, ar2, n - n/2 +1);
+    //    return getMedian(ar1 + n/2, ar2, n - n/2);
+    //}
+ 
+    ///* if m1 > m2 then median must exist in ar1[....m1] and
+    //    ar2[m2...] */
+    //if (n % 2 == 0)
+    //    return getMedian(ar2 + n/2 - 1, ar1, n - n/2 + 1);
+    //return getMedian(ar2 + n/2, ar1, n - n/2);
+
         //}
 
         //private static double FindMedian(int[] input, int n)
