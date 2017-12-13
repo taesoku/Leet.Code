@@ -50,6 +50,9 @@
     <Compile Include="002.Get.Two.Numbers.Addition.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="013.Find.RomanTo.Int.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="526.Get.Beautiful.Arrangement.cs" />
     <Compile Include="146.Design.Least.Recently.Used.Cache.cs" />
     <Compile Include="186.Get.Reverse.Words.cs">
