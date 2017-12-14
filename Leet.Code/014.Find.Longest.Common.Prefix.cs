@@ -3,7 +3,7 @@
 namespace Leet.Code
 {
 
-    public class _0014FindLongestCommonPrefix
+    public class _014FindLongestCommonPrefix
     {
 
         public static void Answer()
