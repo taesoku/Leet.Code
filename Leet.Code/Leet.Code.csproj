@@ -50,7 +50,8 @@
     <Compile Include="002.Get.Two.Numbers.Addition.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="013.Find.RomanTo.Int.cs">
+    <Compile Include="013.Find.RomanTo.Int.cs" />
+    <Compile Include="014.Find.Longest.Common.Prefix.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="526.Get.Beautiful.Arrangement.cs" />
