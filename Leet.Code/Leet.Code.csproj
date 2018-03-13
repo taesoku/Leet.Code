@@ -54,6 +54,7 @@
     <Compile Include="014.Find.Longest.Common.Prefix.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="300.Find.Longest.Increasing.Subsequence.cs" />
     <Compile Include="526.Get.Beautiful.Arrangement.cs" />
     <Compile Include="146.Design.Least.Recently.Used.Cache.cs" />
     <Compile Include="186.Get.Reverse.Words.cs">

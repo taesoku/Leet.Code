@@ -1,4 +1,6 @@
-﻿namespace Leet.Code
+﻿using Everyday.Programming;
+
+namespace Leet.Code
 {
     class LeetCode
     {
@@ -19,12 +21,17 @@
             //_002GetTwoNumbersAddition.Answer();
             //_003FindLengthOfLongestSubstring.Answer();
             //_004FindMedianOfTwoSortedArrays.Answer();
-            _014FindLongestCommonPrefix.Answer();
-            //_01GetBinaryTreeRightSideView.Answer();
-            //_02DesignTwitter.Answer();
-            //_03GetReverseWords.Answer();
-            //_04FindLowestCommonAncestor.Answer();
+            //_014FindLongestCommonPrefix.Answer();
+
+            //_186GetReverseWords.Answer();
+            //_199GetBinaryTreeRightSideView.Answer();
+
             //_215FindKthLargest.Answer();
+            //_236FindLowestCommonAncestor.Answer();
+            
+            _300FindLongestIncreasingSubsequenece.Answer();
+            //_355DesignTwitter.Answer();
+            
         }
     }
 }
